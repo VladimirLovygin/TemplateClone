@@ -130,7 +130,7 @@ function HeadSection(props) {
                         <Typography
                           variant={isWidthUp("lg", width) ? "h3" : "h4"}
                         >
-                          Free Template for building a WebPage using
+                          React WebPage using
                           Material-UI
                         </Typography>
                       </Box>
@@ -150,7 +150,7 @@ function HeadSection(props) {
                           fullWidth
                           className={classes.extraLargeButton}
                           classes={{ label: classes.extraLargeButtonLabel }}
-                          href="https://github.com/wonderfullandingpage/Technology-LandingPage"
+                          href="https://github.com/VladimirLovygin/React-template2"
                         >
                           Download from GitHub
                         </Button>
